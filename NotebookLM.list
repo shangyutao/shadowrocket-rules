@@ -1,12 +1,7 @@
 # NotebookLM for Shadowrocket (RULE-SET)
-
-# 主站（关键）
 DOMAIN,notebooklm.google
 DOMAIN,notebooklm.google.com
-
-# 常见依赖（防止白屏/按钮没反应/登录转圈）
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN,ssl.gstatic.com
 DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,accounts.google.com
